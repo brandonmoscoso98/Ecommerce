@@ -1,4 +1,4 @@
-package CST;
+package Spring2021;
 import java.util.Scanner;
 public class Ecommerce {
 
